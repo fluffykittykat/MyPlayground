@@ -3,3 +3,4 @@
 import UIKit
 
 var str = "Hello, playground"
+var i = 1
